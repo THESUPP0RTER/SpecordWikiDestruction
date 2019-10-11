@@ -1,0 +1,33 @@
+{{Character
+ | name         =Skin
+ | image        =birthofanidea.png
+ | imagecaption =A Birth of an Idea
+ | aliases      =Skin
+ | relatives    =Skin
+ | affiliation  =Skin
+ | marital      =Skin
+ | birthDate    =Skin
+ | birthPlace   =Skin
+ | deathDate    =Skin
+ | deathPlace   =Skin
+ | species      =Skin
+ | gender       =Skin
+ | height       =Skin
+ | weight       =Skin
+ | eyes         =Skin
+}}
+SKIN
+
+SKIN
+
+==Personality==
+SKIN
+
+SKIN
+
+==History==
+SKIN
+
+SKIN
+
+==SKIN==
