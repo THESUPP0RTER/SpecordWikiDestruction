@@ -1,21 +1,26 @@
-{{Character
- | name         =Skin
- | image        =hyg.jpeg
- | imagecaption =Skin
- | aliases      =Skin
- | relatives    =Skin
- | affiliation  =Skin
- | marital      =Skin
- | birthDate    =Skin
- | birthPlace   =Skin
- | deathDate    =Skin
- | deathPlace   =Skin
- | species      =Skin
- | gender       =Skin
- | height       =Skin
- | weight       =Skin
- | eyes         =nikS
-}}
+{| class="article-table"
+!SKIN
+!SKIN
+!
+SKIN
+!
+SKIN
+|-
+|SKIN
+|SKIN
+|SKIN
+|SKIN
+|-
+|SKIN
+|SKIN
+|SKIN
+|SKIN
+|-
+|SKIN
+|SKIN
+|SKIN
+|SKIN
+|}
 SKIN
 
 SKIN
