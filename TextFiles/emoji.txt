@@ -1,6 +1,6 @@
 {{Character
  | name         =Skin
- | image        294F0E10-4E95-4B85-93CA-A35092DD00BB.jpeg
+ | image        =294F0E10-4E95-4B85-93CA-A35092DD00BB.jpeg
  | imagecaption =The only emoji.
 }}
 SKIN
