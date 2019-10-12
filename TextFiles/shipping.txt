@@ -1,0 +1,32 @@
+{{Character
+ | name         =Skin Ship
+ | image        =ship.png
+ | imagecaption =We depart. 
+ | aliases      =Skin Ship
+ | relatives    =Skin Ship
+ | affiliation  =Skin Ship
+ | marital      =Skin Ship
+ | birthDate    =Skin Ship
+ | birthPlace   =Skin Ship
+ | deathDate    =Skin Ship
+ | deathPlace   =Skin Ship
+ | species      =Skin Ship
+ | gender       =Skin Ship
+ | height       =Skin Ship
+ | weight       =Skin Ship
+ | eyes         =Skin Ship
+}}
+SKIN 
+
+SKIN
+
+==History==
+SKIN SHIP
+
+SKIN SHIP
+
+==Notable Shippers==
+
+SKIN SHIP 
+
+SKIN SHIP
